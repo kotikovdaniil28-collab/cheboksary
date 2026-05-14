@@ -1,0 +1,18 @@
+{
+  "name": "john-wick-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord AI chat bot named Джон Вик",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "latest",
+    "dotenv": "latest",
+    "openai": "latest"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
